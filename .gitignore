@@ -1,0 +1,6 @@
+# Elément à ignorer
+/nbproject/private/
+/vendor/
+.env
+.env.local
+
